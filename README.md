@@ -16,7 +16,7 @@
 ├── scripts/
 │   └── script.js
 ├── images/
-│   └── IMG_profile.jpeg.jpg
+│   └── profile.jpeg
 └── README.md
 ```
 
